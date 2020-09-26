@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj": {}
+    "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj": {
+    "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
         "projectName": "AssetApp.API",
-        "projectPath": "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
+        "projectPath": "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
         "packagesPath": "C:\\Users\\ethem\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\obj\\",
+        "outputPath": "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ethem\\AppData\\Roaming\\NuGet\\NuGet.Config",

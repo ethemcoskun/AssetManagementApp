@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gJy9WLmm9yqzaCoCNQj3gbY8ZNRzqIYb7mDN5L8fORvrOH1XdQB3RJPO0rPmfngHqwt19GXZr5aXD8tzPLTEJQ==",
+  "dgSpecHash": "GBdh63Dv2c6iBZOUX04mkvz4bKp624D+7JQeif0M3lf3Z+X5CKXs88ygEUjkWkD7pl22fdIYrqrLgYuozRx15Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
+  "projectFilePath": "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ethem\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.4\\microsoft.aspnetcore.authentication.jwtbearer.3.1.4.nupkg.sha512",
     "C:\\Users\\ethem\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
