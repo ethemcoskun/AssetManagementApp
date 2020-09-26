@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj": {}
+    "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj": {
+    "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
+        "projectUniqueName": "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
         "projectName": "AssetApp.API",
-        "projectPath": "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
+        "projectPath": "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\AssetApp.API.csproj",
         "packagesPath": "C:\\Users\\ethem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\obj\\",
+        "outputPath": "c:\\Users\\ethem\\Desktop\\AssetAppAngular\\AssetApp\\AssetApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ethem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.4, )"
@@ -49,6 +53,14 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
             }
           },
           "imports": [

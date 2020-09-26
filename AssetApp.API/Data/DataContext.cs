@@ -1,7 +1,7 @@
-using AssetApp.API.Controllers.Models;
+using AssetApp.API.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AssetApp.API.Controllers.Data
+namespace AssetApp.API.Data
 {
     public class DataContext : DbContext
     {
@@ -11,5 +11,7 @@ namespace AssetApp.API.Controllers.Data
         }
 
         public DbSet<Value> Values { get; set; }
+        public DbSet<User> Users { get; set; }
+
     }
 }

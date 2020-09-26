@@ -1,4 +1,4 @@
-namespace AssetApp.API.Controllers.Models
+namespace AssetApp.API.Models
 {
     public class Value
     {
